@@ -1,28 +1,28 @@
 # Python Assignments Overview
 
-## 00 - Introduction
-This section provides an introduction to Python, covering basic concepts such as syntax, variables, and how to run Python scripts.
+## 00 - Introduction & Basic Python Scripts
+This section provides an introduction to Python, covering basic concepts such as syntax, variables, how to run Python scripts, printing output, taking user input, and simple calculations.
 
-## 01 - Basic Scripts
-Basic Python scripts introduce fundamental programming concepts like printing output, taking user input, and simple calculations.
-
-## 02 - Expressions
+## 01 - Expressions
 Expressions in Python include mathematical operations, logical conditions, and variable manipulations to create meaningful computations.
 
-## 03 - Lists
+## 02 - Lists
 Lists are an essential data structure in Python. This section covers list creation, indexing, slicing, appending, and common list operations.
 
-## 04 - Dictionaries
-Dictionaries store key-value pairs. This section explores creating dictionaries, accessing values, adding/removing items, and looping through dictionary elements.
-
-## 05 - If Statements
+## 04 - If Statements
 Conditional statements allow decision-making in programs. This section explains `if`, `elif`, and `else` conditions for executing code based on logical expressions.
 
-## 06 - Loops & Control Flow
+## 03 - Dictionaries
+Dictionaries store key-value pairs. This section explores creating dictionaries, accessing values, adding/removing items, and looping through dictionary elements.
+
+## 05 - Loops & Control Flow
 Loops enable repetitive tasks in Python. This section covers `for` and `while` loops, along with control flow mechanisms like `break` and `continue`.
 
-## 07 - Functions & Information Flow
-Functions allow code reusability and modular programming. This section discusses defining functions, passing arguments, returning values, and information flow within a program.
+## 06 - Functions
+Functions allow code reusability and modular programming. This section discusses defining functions, passing arguments, and returning values.
+
+## 07 - Information Flow
+Information flow refers to how data moves within a program. This section covers variable scope, data passing between functions, and best practices for organizing code.
 
 ---
 
