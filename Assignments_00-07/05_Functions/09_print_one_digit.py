@@ -5,6 +5,5 @@ def main():
     num = int(input("Enter a number: "))
     print_ones_digit(num)
 
-# This line ensures the main function runs when the script is executed.
 if __name__ == '__main__':
     main()
