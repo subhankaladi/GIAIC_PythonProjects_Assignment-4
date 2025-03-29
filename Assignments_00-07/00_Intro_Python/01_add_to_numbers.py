@@ -1,10 +1,10 @@
 def main():
     
-    num1 = input("Enter the first number: ")
+    num1 = input("\033[1;3m Enter the first number: \033[0m")
     
     num1 = int(num1)
 
-    num2 = input("Enter the second number: ")
+    num2 = input("\033[1;3m Enter the second number: \033[0m")
     
     num2 = int(num2)
     

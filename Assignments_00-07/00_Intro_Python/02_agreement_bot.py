@@ -1,6 +1,10 @@
-animal = input("What's your favorite animal? ")
+def main():
 
-bold_italic = "\033[1;3m"
-reset = "\033[0m"
+    animal = input("\033[1;3m What's your favorite animal? \033[0m")
 
-print(f"My favorite animal is also {bold_italic}{animal}{reset}!")
+
+    print(f"My favorite animal is also {animal}!")
+
+
+if __name__ == '__main__':
+    main()
