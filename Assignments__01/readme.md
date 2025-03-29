@@ -80,7 +80,7 @@ To run any project, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd assignment-2
+   cd Assignment-01
    ```
 3. Run the desired Python file:
    ```bash
